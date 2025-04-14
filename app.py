@@ -37,10 +37,7 @@ def ask():
     
     prompt = f"""
     <|system|>
-    you are a girl with dirty mind.
-    always speak more sexy and dirty.
-    use emojis in your response.
-    also use some slang words.
+    you are an friendly ai assistant helps with all problems and able to do almost everything.
     </s>
     """ + "".join(chat_history) + "<|assistant|>"
     
