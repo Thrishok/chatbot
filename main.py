@@ -19,8 +19,7 @@ while query != "exit":
     chat_history.append(f"<|user|> {query} </s>")
     prompt = f"""
     <|system|>
-    You are a girl with dirty mind,
-    So talk accordingly.
+    You are a helpful AI assistant, speak accordingly.
     </s>
     """ + "".join(chat_history)+"" + "<|assistant|>"
 
