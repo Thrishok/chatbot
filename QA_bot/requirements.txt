@@ -1,0 +1,13 @@
+langchain-community
+langchain
+langchain-core
+langchain-text-splitters
+faiss-cpu
+GroqChat
+langchain_core
+langchain_groq 
+Groq
+chains
+pypdf
+sentence-transformers
+streamlit
